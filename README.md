@@ -1,3 +1,15 @@
+Rails:
+database.yml (setting db)
+
+
+https://guides.rubyonrails.org/v3.2/migrations.html
+--------------------------------------------------------------
+$ rails new kiwari-backend
+$ cd kiwari-backend
+$ rails generate model Product name:string description:text
+$ rails generate controller Products test
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
