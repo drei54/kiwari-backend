@@ -32,3 +32,7 @@ PUT: http://localhost:3000/products/{1}.
 DELETE: http://localhost:3000/products/{1}.
 ```
 ###### Docker
+```
+$ docker build . -t kiwari-backend
+$ docker run --name kiwari-backend -p 3000:3000 -d kiwari-backend
+```
