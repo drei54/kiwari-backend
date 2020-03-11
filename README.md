@@ -3,6 +3,7 @@
 https://guides.rubyonrails.org/v5.0/getting_started.html
 https://guides.rubyonrails.org/v3.2/migrations.html
 https://www.driftingruby.com/episodes/intro-to-docker-on-windows
+https://docs.docker.com/toolbox/toolbox_install_windows/
 ```
 ###### DB setting
 ```
